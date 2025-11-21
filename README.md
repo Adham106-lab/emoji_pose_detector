@@ -114,11 +114,3 @@ Feel free to fork this project and build on top of it.
 ## ⭐ If you like this project
 
 Please star ⭐ the repository — it helps!
-
----
-
-If you want, I can also create:
-✅ A nicer Markdown README with images
-✅ A GitHub banner
-✅ Badges (Python • OpenCV • MediaPipe)
-Just tell me!
